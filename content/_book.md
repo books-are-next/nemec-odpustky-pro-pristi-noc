@@ -1,39 +1,36 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  publisherShort: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
+  title: Odpustky pro příští noc
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Ludvík Němec
+  publisher: Městská knihovna v Praze
+  modified: '2021-07-28T00:00:00.000Z'
 readingOrder:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  - promo.html
+  - odpustky_pro_pristi_noc_001.html
+  - odpustky_pro_pristi_noc_002.html
+  - odpustky_pro_pristi_noc_003.html
+  - odpustky_pro_pristi_noc_004.html
+  - odpustky_pro_pristi_noc_005.html
+  - odpustky_pro_pristi_noc_006.html
+  - odpustky_pro_pristi_noc_007.html
+  - odpustky_pro_pristi_noc_008.html
+  - odpustky_pro_pristi_noc_009.html
+  - odpustky_pro_pristi_noc_010.html
 tocBase:
-  - isSection: true
-    children:
-      - link: where-i-lived-and-what-i-lived-for.html
-        title: Where i lived and what i lived for
-        numberedChildren: true;
-        children:
-          - link: reading.html
-            title: Reading
-          - link: sounds.html
-            title: Sounds
-      - link: solitude.html
-        title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - assets
   - favicon.png
