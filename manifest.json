@@ -1,0 +1,172 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Odpustky pro příští noc",
+  "author": "Ludvík Němec",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "nemec-odpustky-pro-pristi-noc-522f14a",
+  "revision": "522f14a",
+  "readingOrder": [
+    "promo.html",
+    "odpustky_pro_pristi_noc_005.html",
+    "odpustky_pro_pristi_noc_006.html",
+    "odpustky_pro_pristi_noc_007.html",
+    "odpustky_pro_pristi_noc_008.html",
+    "odpustky_pro_pristi_noc_009.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Sep 13 2022 10:18:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1663064309946
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "odpustky_pro_pristi_noc_005.html",
+      "toc": []
+    },
+    {
+      "title": "Odpustky pro příští noc",
+      "file": "odpustky_pro_pristi_noc_005.html",
+      "words": 7,
+      "chars": 53,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "odpustky_pro_pristi_noc_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Koleda",
+      "file": "odpustky_pro_pristi_noc_006.html",
+      "words": 10795,
+      "chars": 63741,
+      "ideas": 378,
+      "role": "chapter",
+      "order": 2,
+      "prev": "odpustky_pro_pristi_noc_005.html",
+      "next": "odpustky_pro_pristi_noc_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Koleda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kočka v bludišti",
+      "file": "odpustky_pro_pristi_noc_007.html",
+      "words": 12002,
+      "chars": 69861,
+      "ideas": 339,
+      "role": "chapter",
+      "order": 3,
+      "prev": "odpustky_pro_pristi_noc_006.html",
+      "next": "odpustky_pro_pristi_noc_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kočka v bludišti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odpustky pro příští noc",
+      "file": "odpustky_pro_pristi_noc_008.html",
+      "words": 9643,
+      "chars": 55927,
+      "ideas": 324,
+      "role": "chapter",
+      "order": 4,
+      "prev": "odpustky_pro_pristi_noc_007.html",
+      "next": "odpustky_pro_pristi_noc_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Odpustky pro příští noc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Voda živá",
+      "file": "odpustky_pro_pristi_noc_009.html",
+      "words": 10864,
+      "chars": 62848,
+      "ideas": 353,
+      "role": "chapter",
+      "order": 5,
+      "prev": "odpustky_pro_pristi_noc_008.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Voda živá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 137,
+      "chars": 877,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "odpustky_pro_pristi_noc_009.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 43456,
+      "chars": 253353,
+      "ideas": 1415
+    },
+    "chapters": {
+      "words": 43311,
+      "chars": 252430,
+      "ideas": 1396
+    }
+  }
+}
