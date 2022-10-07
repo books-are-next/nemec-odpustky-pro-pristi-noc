@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemec-odpustky-pro-pristi-noc-c8a7710",
-  "revision": "c8a7710",
+  "identifier": "nemec-odpustky-pro-pristi-noc-010685a",
+  "revision": "010685a",
   "readingOrder": [
     "promo.html",
     "odpustky_pro_pristi_noc_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:59:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924384856
+    "date": "Fri Oct 07 2022 13:49:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150573394
   },
   "documents": [
     {
