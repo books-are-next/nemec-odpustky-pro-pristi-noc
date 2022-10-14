@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2800-7
 readingOrder:
   - promo.html
   - odpustky_pro_pristi_noc_005.html

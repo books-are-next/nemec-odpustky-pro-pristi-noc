@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemec-odpustky-pro-pristi-noc-7aa012d",
-  "revision": "7aa012d",
+  "identifier": "nemec-odpustky-pro-pristi-noc-c4bfdf4",
+  "revision": "c4bfdf4",
   "readingOrder": [
     "promo.html",
     "odpustky_pro_pristi_noc_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:41:56 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416516233
+    "date": "Fri Oct 14 2022 16:38:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665765488881
   },
   "documents": [
     {
@@ -139,9 +139,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 135,
-      "chars": 878,
-      "ideas": 13,
+      "words": 139,
+      "chars": 915,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "odpustky_pro_pristi_noc_009.html",
@@ -159,9 +159,9 @@
   ],
   "totals": {
     "all": {
-      "words": 43454,
-      "chars": 253354,
-      "ideas": 1413
+      "words": 43458,
+      "chars": 253391,
+      "ideas": 1414
     },
     "chapters": {
       "words": 43311,
