@@ -9,7 +9,8 @@
       "modified": "2021-07-28T00:00:00.000Z",
       "edition": "beletrie",
       "publisherShort": "mkp",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-2800-7"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Přísloví"
+            "title": "Přísloví",
+            "children": []
           },
           {
             "filename": "odpustky_pro_pristi_noc_006.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Koleda"
+            "title": "Koleda",
+            "children": []
           },
           {
             "filename": "odpustky_pro_pristi_noc_007.md",
@@ -122,8 +123,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Kočka v bludišti"
+            "title": "Kočka v bludišti",
+            "children": []
           },
           {
             "filename": "odpustky_pro_pristi_noc_008.md",
@@ -135,8 +136,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Odpustky pro příští noc"
+            "title": "Odpustky pro příští noc",
+            "children": []
           },
           {
             "filename": "odpustky_pro_pristi_noc_009.md",
@@ -148,8 +149,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Voda živá"
+            "title": "Voda živá",
+            "children": []
           },
           {
             "filename": "odpustky_pro_pristi_noc_010.md",
@@ -302,6 +303,6 @@
       "user": "books-are-next",
       "repo": "nemec-odpustky-pro-pristi-noc"
     },
-    "generatedAt": 1662983726500
+    "generatedAt": 1665415535031
   }
 }
